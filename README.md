@@ -1,2 +1,3 @@
 # hello-world
-obligatorisk tutorial try-out
+Learning the ropes of github by following tutorial in https://guides.github.com/activities/hello-world/
+Probably nothing interesting to se
